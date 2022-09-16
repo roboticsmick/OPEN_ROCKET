@@ -77,8 +77,9 @@ Launch lugs / Rail buttons:
 
 ![LOW_COST_MODEL](https://user-images.githubusercontent.com/70121687/190314069-452ae407-8c72-438f-835f-0f242d0d807a.png)
 
-![LOW_COST_MOTOR_RETAINER](https://user-images.githubusercontent.com/70121687/190314101-d693601a-ee74-4b29-bc7a-e8bfa1cd6fc8.png)
+![image](https://user-images.githubusercontent.com/70121687/190540438-f36c31df-b73f-4dfc-adb7-9b3edd036c44.png)
 
-![LOW_COST_NOSECONE](https://user-images.githubusercontent.com/70121687/190314117-f005e891-da86-481f-bea4-d04ff461b8e0.png)
+![image](https://user-images.githubusercontent.com/70121687/190540518-98d4250e-577a-4070-813b-2d1d5ecbdaab.png)
 
-![LOW_COST_FIN](https://user-images.githubusercontent.com/70121687/190314135-58270d0b-e3c8-4edd-ae35-f468cc9da939.png)
+![image](https://user-images.githubusercontent.com/70121687/190540587-3064d566-7d29-4923-b910-cdce2645bb73.png)
+
