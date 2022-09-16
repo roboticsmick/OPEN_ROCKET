@@ -30,11 +30,21 @@ A low cost rocket build using 3D printed parts and a laser cutter.
 ## Steps:
 ### Boddy tube fin slots
 1. Insert the laser cutter jigs into each end of the body tube. 
-2. The jig has 3 centre markers for marking 3 equidistant marks on tube to align laser cutter. 
-3. Mark the tube at the marker points, then use a ruler to draw lines along motor tube.
-4. Measure up INSERTDISTANCE along the line and mark this point. This is where you will align the laser cutter centre point.
-5. Rotate tube 60 degrees so the tube sits flat on flat surface and one of the laser cut lines is facing up and the laser cutter shield slot is parralel and closest to the surface.
-6.  
+Rest the jigs on a flat surface and rotate and jiggle the tube until both jigs are sitting flat on the surface. Make sure they are still inserted into the tube.
+2. The jig has 3 centre markers for marking 3 equidistant marks on the tube to align laser cutter. 
+3. Mark the tube at the marker points, then use a right angle ruler to draw lines along motor tube.
+4. Measure up 66mm along the line and mark this point. This is where you will align the laser cutter centre point.
+5. Insert the laser cutter shield into the slot parallel with the laser cutter bed.
+5. Insert into laser cutter, and make sure the jig is alilgned squarley with the lasercutter in one corner. It is important you place it in a repeatable position in the laser cutter, so that after the first cut of the fin slot, you can remove the jig, rotate it 120 degrees, then place it back into the same position.
+
+![image](https://user-images.githubusercontent.com/70121687/190539946-2a6d1edc-40f7-4d40-bc77-3b58298a3882.png)
+
+6. Centre the laser cutter on the mark made at the 66mm point and load in the fin slot template. 
+7. Cut the fin slot.
+8. Remove the laser cutter shield, and rotate it to a new position that is parrallel to the next fin slot to cut.
+9. Rotate the body tube, and reposition in the same location.
+10. Recentre the laser cutter and repeat cut. 
+11. Do this until all three fins are cut, remembering to move the laser cutter shield each time to prevent the laser cutter damaging the opposing wall.
 
 ### Fins and motor:
 1. Glue upper ring to top of motor tube. Make sure it dries on a flat surface. Make sure not to get glue on fin guide slots or the holes to tie the parachute chord. 
@@ -63,8 +73,7 @@ Launch lugs / Rail buttons:
 2. Test fit the nuts to make sure they go in
 3. Add small amount of epoxy to each of the nut mounts then press in the nuts (make sure no epoxy gets in the nut thread)
 4. Screw in the eyebolt (add a little bit of epoxy when screwed in to prevent it from unwinding).
-
-### Avionics
+5. Attached shock cord and parachute to eyebolt.
 
 ![LOW_COST_MODEL](https://user-images.githubusercontent.com/70121687/190314069-452ae407-8c72-438f-835f-0f242d0d807a.png)
 
