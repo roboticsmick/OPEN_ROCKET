@@ -4,15 +4,16 @@ A low cost rocket build using 3D printed parts and a laser cutter.
 
 ## Parts list:
 ### Hardware to purchase:
-1. 3 x 12mm M3 countersunk hex bolts
-2. 1 x M3 eyebolt - 10-15mm threaded bolt length (if the bolt length is longer and you have an avionics payload, make sure the bolt doesn't interfere with the avionics mounting)
-3. 6 x M3 nuts
-4. 2 x rail buttons
-5. 1 x parachute
-6. 1 x nomex chute protector or wadding
-7. 1 x shock cord - 2-3m long
-8. 1 x epoxy
-9. 2 x Sandpaper - 100 and 400 grit
+1. 1 x PPS Mailing Tube 60 x 600 mm (Officeworks)
+2. 3 x 12mm M3 countersunk hex bolts
+3. 1 x M3 eyebolt - 10-15mm threaded bolt length (if the bolt length is longer and you have an avionics payload, make sure the bolt doesn't interfere with the avionics mounting in the nosecone)
+4. 6 x M3 nuts
+5. 2 x rail buttons (AusRocketry sell for $5)
+6. 1 x parachute
+7. 1 x nomex chute protector or wadding
+8. 1 x shock cord - 2-3m long
+9. 1 x epoxy
+10. 2 x Sandpaper - 100 and 400 grit
 
 ### 3D printed parts:
 1. 2 x Laser cutter jigs (holds the body tube straight and allows accurate 120 degree rotation of the body tube in the laser cutter when cutting out the fin slots).
