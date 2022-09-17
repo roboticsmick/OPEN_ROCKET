@@ -11,7 +11,7 @@ A low cost rocket build using 3D printed parts and a laser cutter.
 5. 1 x parachute
 6. 1 x nomex chute protector or wadding
 7. 1 x shock cord - 2-3m long
-8. 1 x Epoxy
+8. 1 x epoxy
 9. 2 x Sandpaper - 100 and 400 grit
 
 ### 3D printed parts:
