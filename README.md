@@ -29,7 +29,7 @@ A low cost rocket build using 3D printed parts and a laser cutter.
 6. 3 x Fins
 
 ## Steps:
-### Boddy tube fin slots
+### Body tube fin slots
 1. Insert the laser cutter jigs into each end of the body tube. 
 Rest the jigs on a flat surface and rotate and jiggle the tube until both jigs are sitting flat on the surface. Make sure they are still inserted into the tube.
 2. The jig has 3 centre markers for marking 3 equidistant marks on the tube to align laser cutter. 
