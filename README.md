@@ -45,6 +45,7 @@ Rest the jigs on a flat surface and rotate and jiggle the tube until both jigs a
 5. Insert into laser cutter, and make sure the jig is alilgned squarley with the lasercutter in one corner. It is important you place it in a repeatable position in the laser cutter, so that after the first cut of the fin slot, you can remove the jig, rotate it 120 degrees, then place it back into the same position.
 
 ![image](https://user-images.githubusercontent.com/70121687/190539946-2a6d1edc-40f7-4d40-bc77-3b58298a3882.png)
+![image](https://user-images.githubusercontent.com/70121687/198918185-e3d2eaa2-3bdf-40a2-a3f9-f00003bbe4f9.png)
 
 6. Centre the laser cutter on the mark made at the 66mm point and load in the fin slot template. 
 7. Cut the fin slot.
