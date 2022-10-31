@@ -2,7 +2,10 @@
 
 A low cost rocket build using 3D printed parts and a laser cutter. 
 
+#### LSR Razor:
 ![image](https://user-images.githubusercontent.com/70121687/198916283-cd4ed9e6-fa4c-4dbb-8bba-e7c4324d211a.png)
+
+#### LSR Lance:
 ![image](https://user-images.githubusercontent.com/70121687/198916316-40fac730-80b5-4908-96c1-3e427d2d22e5.png)
 
 ## Parts list:
@@ -66,14 +69,15 @@ Rest the jigs on a flat surface and rotate and jiggle the tube until both jigs a
 13. Add epoxy fillets for the fins.  Do this in 3 goes to allow time for the epoxy to settle when drying, before rotating to the next fin.
 14. Remove the tabe before epoxy sets fully and smooth epoxy againt body tube (there will be a little step the height of the masking tape) to minimise sanding when dry.
 15. Let epoxy set for 24 hours.
-Launch lugs / Rail buttons:
+![image](https://user-images.githubusercontent.com/70121687/198917122-6d61c2d9-6e11-4c65-8568-ae58a7cccae8.png)
+![image](https://user-images.githubusercontent.com/70121687/198916596-d0e48887-b3b7-46ee-976b-2892160956ec.png)
+![image](https://user-images.githubusercontent.com/70121687/198917386-9196d5eb-d08e-433c-94f5-e4a7eff99b5d.png)
+
+### Launch lugs / Rail buttons:
 1. Drill holes into tube for rail buttons (1 into lower centring ring and 1 at centre of pressure (just below where the parachute sits in body tube to prevent it catching when it ejects)
 2. Rough up where the rail buttons will mount on the body tube with sandpaper to allow a better grip for the epoxy.
 3. Add epoxy into rail button holes, then screw in rail buttons. Clean up any excess epoxy with tissue.
 4. For upper rail button, add extra epoxy to inner tube to ensure a more secure bond and prevent the thread sticking out and snagging the parachute (use a long piece of wood to get the epoxy into the tube and smooth it out so it creates a smooth blob around thread).
-
-![image](https://user-images.githubusercontent.com/70121687/190540438-f36c31df-b73f-4dfc-adb7-9b3edd036c44.png)
-![image](https://user-images.githubusercontent.com/70121687/198916596-d0e48887-b3b7-46ee-976b-2892160956ec.png)
 
 ### Nosecone:
 1. Clean out the nut mount inserts in the bulkhead to ensure there is no 3D filament stuck in the holes
@@ -83,7 +87,7 @@ Launch lugs / Rail buttons:
 5. Attached shock cord and parachute to eyebolt.
 
 #### Ogive Nose Cone:
-![image](https://user-images.githubusercontent.com/70121687/190540587-3064d566-7d29-4923-b910-cdce2645bb73.png)
+![image](https://user-images.githubusercontent.com/70121687/198917032-459fe90b-6c3b-4feb-bb46-cf49fee7a1ae.png)
 
 #### Von Karman Nose Cone:
 ![image](https://user-images.githubusercontent.com/70121687/198916705-7df58494-a995-4134-9939-f393c3248271.png)
