@@ -58,17 +58,19 @@ Rest the jigs on a flat surface and rotate and jiggle the tube until both jigs a
 2. Tie the parachute chord through the two holes in upper centering ring using a fishing knot.
 3. Add epoxy fillet to upper ring and to the parachute chord to ensure strong bond and secure the chord.
 4. Place lower ring on motor tube and screw on motor retainer.
-5. Test fit motor tube into rocket body, noting were upper ring sits in motor tube.
-6. Add glue to rocket body tube where the upper ring will sit.
-7. Slide in motor tube to where glue sits. Align motor tube to fin slots and let dry.
-8. Remove motor retainer cap and lower centering ring.
-9. Add glue to guide slots and glue in fins. Motor tube has fin guides that will ensure fins are straight. Let dry.
-10. For added strength, add internal fillets to fins against body tube and motor tube.
-11. Glue in lower centreing ring.
-12. Use masking tape on outer tube to mask off where the outer fillets for the fins will go.
-13. Add epoxy fillets for the fins.  Do this in 3 goes to allow time for the epoxy to settle when drying, before rotating to the next fin.
-14. Remove the tabe before epoxy sets fully and smooth epoxy againt body tube (there will be a little step the height of the masking tape) to minimise sanding when dry.
-15. Let epoxy set for 24 hours.
+5. Test fit fins to ensure they fit cleanly into fin slots. Sand if needed.
+6. Test fit motor tube into rocket body, noting were upper ring sits in motor tube.
+7. Add glue to rocket body tube where the upper ring will sit.
+8. Slide in motor tube to where glue sits. Align motor tube to fin slots and let dry.
+9. Remove motor retainer cap and lower centering ring.
+10. Add glue to guide slots and glue in fins. Motor tube has fin guides that will ensure fins are straight. Let dry.
+11. For added strength, add internal fillets to fins against body tube and motor tube.
+12. Glue in lower centreing ring.
+13. Use masking tape on outer tube to mask off where the outer fillets for the fins will go.
+14. Add epoxy fillets for the fins.  Do this in 3 goes to allow time for the epoxy to settle when drying, before rotating to the next fin.
+15. Remove the tabe before epoxy sets fully and smooth epoxy againt body tube (there will be a little step the height of the masking tape) to minimise sanding when dry.
+16. Let epoxy set for 24 hours.
+
 ![image](https://user-images.githubusercontent.com/70121687/198917122-6d61c2d9-6e11-4c65-8568-ae58a7cccae8.png)
 ![image](https://user-images.githubusercontent.com/70121687/198916596-d0e48887-b3b7-46ee-976b-2892160956ec.png)
 ![image](https://user-images.githubusercontent.com/70121687/198917386-9196d5eb-d08e-433c-94f5-e4a7eff99b5d.png)
