@@ -4,7 +4,6 @@ A low cost rocket build using 3D printed parts and a laser cutter.
 
 ![image](https://user-images.githubusercontent.com/70121687/198916283-cd4ed9e6-fa4c-4dbb-8bba-e7c4324d211a.png)
 ![image](https://user-images.githubusercontent.com/70121687/198916316-40fac730-80b5-4908-96c1-3e427d2d22e5.png)
-![LOW_COST_MODEL](https://user-images.githubusercontent.com/70121687/190314069-452ae407-8c72-438f-835f-0f242d0d807a.png)
 
 ## Parts list:
 ### Hardware to purchase:
@@ -74,7 +73,6 @@ Launch lugs / Rail buttons:
 4. For upper rail button, add extra epoxy to inner tube to ensure a more secure bond and prevent the thread sticking out and snagging the parachute (use a long piece of wood to get the epoxy into the tube and smooth it out so it creates a smooth blob around thread).
 
 ![image](https://user-images.githubusercontent.com/70121687/190540438-f36c31df-b73f-4dfc-adb7-9b3edd036c44.png)
-![image](https://user-images.githubusercontent.com/70121687/198916435-164f21d6-bbe5-46fb-b53c-45f4a8b17b8e.png)
 ![image](https://user-images.githubusercontent.com/70121687/198916596-d0e48887-b3b7-46ee-976b-2892160956ec.png)
 
 ### Nosecone:
