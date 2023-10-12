@@ -1,11 +1,13 @@
-# LSR_LOW_COST_ROCKET - QUT Launchpad build
+# LOGICOMA_LOW_COST_ROCKET - QUT Launchpad build
 
-A low cost rocket build using 3D printed parts and a laser cutter. 
+A low cost rocket build using 3D printed parts and a laser cutter. Design uses a Von Karman Nose Cone profile (optimum nose cone profile for rockets). Nosecone has space for a small payload bay. All parts should be printables without supports on Launchpad printers. You need to use the large Lulzbot due to height of nosecone. 29mm motor mount. A spacer is required for 24mm motor. Have successfully launched rocket using a E24 and G78 motor. 
 
-#### LSR Razor:
+Note: PLA deforms if left in the sun or it gets hot. Make sure to keep the nosecone out of the sun for extended periods of time. If it is in the sun, make sure the end caps are in to help reinforce the nosecone to prevent it deforming. 
+
+#### Build 1:
 ![image](https://user-images.githubusercontent.com/70121687/198916283-cd4ed9e6-fa4c-4dbb-8bba-e7c4324d211a.png)
 
-#### LSR Lance:
+#### Build 2:
 ![image](https://user-images.githubusercontent.com/70121687/198916316-40fac730-80b5-4908-96c1-3e427d2d22e5.png)
 
 ## Parts list:
@@ -37,17 +39,17 @@ A low cost rocket build using 3D printed parts and a laser cutter.
 ## Steps:
 ### Body tube fin slots
 1. Insert the laser cutter jigs into each end of the body tube. 
-Rest the jigs on a flat surface and rotate and jiggle the tube until both jigs are sitting flat on the surface. Make sure they are still inserted into the tube.
+Rest the jigs on a flat surface and rotate and jiggle the tube until both jigs are sitting flat on the surface. Make sure they are still inserted into the tube. Add some masking tape to lock this position in place.
 2. The jig has 3 centre markers for marking 3 equidistant marks on the tube to align laser cutter. 
 3. Mark the tube at the marker points, then use a right angle ruler to draw lines along motor tube.
 4. Measure up 66mm along the line and mark this point. This is where you will align the laser cutter centre point.
-5. Insert the laser cutter shield into the slot parallel with the laser cutter bed.
-5. Insert into laser cutter, and make sure the jig is alilgned squarley with the lasercutter in one corner. It is important you place it in a repeatable position in the laser cutter, so that after the first cut of the fin slot, you can remove the jig, rotate it 120 degrees, then place it back into the same position.
+5. Insert the laser cutter shield into the slot parallel with the laser cutter bed. Rotate this piece of plywood after each cut. 
+6. Make sure the laser cutter bed is correctly positioned and square in the lasercutter. Sometimes people bump it and it is not square. Insert the tube into laser cutter, and make sure the jig is aligned squarley with the lasercutter in one corner. The legs of the jig are square so it can be aligned against the lasercutter bed. It is important you place it in a repeatable position in the laser cutter, so that after the first cut of the fin slot, you can remove the jig, rotate it 120 degrees, then place it back into the same position. 
 
 ![image](https://user-images.githubusercontent.com/70121687/190539946-2a6d1edc-40f7-4d40-bc77-3b58298a3882.png)
 ![image](https://user-images.githubusercontent.com/70121687/198918185-e3d2eaa2-3bdf-40a2-a3f9-f00003bbe4f9.png)
 
-6. Centre the laser cutter on the mark made at the 66mm point and load in the fin slot template. 
+6. Centre the laser cutter on the mark made at the 66mm point and load in the fin slot template. You can position the laser cutter pointer to be in the centre of the object to be cut.
 7. Cut the fin slot.
 8. Remove the laser cutter shield, and rotate it to a new position that is parrallel to the next fin slot to cut.
 9. Rotate the body tube, and reposition in the same location.
@@ -57,19 +59,19 @@ Rest the jigs on a flat surface and rotate and jiggle the tube until both jigs a
 ### Fins and motor:
 1. Glue upper ring to top of motor tube. Make sure it dries on a flat surface. Make sure not to get glue on fin guide slots or the holes to tie the parachute chord. 
 2. Tie the parachute chord through the two holes in upper centering ring using a fishing knot.
-3. Add epoxy fillet to upper ring and to the parachute chord to ensure strong bond and secure the chord.
+3. Add epoxy fillet to upper ring and to the parachute chord to ensure strong bond and secure the chord. You can use a little masking tape after epoxying to keep the cord in the correct position to dry.
 4. Place lower ring on motor tube and screw on motor retainer.
 5. Test fit fins to ensure they fit cleanly into fin slots. Sand if needed.
 6. Test fit motor tube into rocket body, noting were upper ring sits in motor tube.
 7. Add glue to rocket body tube where the upper ring will sit.
 8. Slide in motor tube to where glue sits. Align motor tube to fin slots and let dry.
 9. Remove motor retainer cap and lower centering ring.
-10. Add glue to guide slots and glue in fins. Motor tube has fin guides that will ensure fins are straight. Let dry.
+10. Add glue to guide slots and glue in fins. Motor tube has fin guides that will ensure fins are relatively straight. Leave to dry properly.
 11. For added strength, add internal fillets to fins against body tube and motor tube.
 12. Glue in lower centreing ring.
 13. Use masking tape on outer tube to mask off where the outer fillets for the fins will go.
 14. Add epoxy fillets for the fins.  Do this in 3 goes to allow time for the epoxy to settle when drying, before rotating to the next fin.
-15. Remove the tabe before epoxy sets fully and smooth epoxy againt body tube (there will be a little step the height of the masking tape) to minimise sanding when dry.
+15. Remove the tape before epoxy sets fully and smooth epoxy againt body tube to minimise sanding when dry (otherwise there will be a little step the height of the masking tape).
 16. Let epoxy set for 24 hours.
 
 ![image](https://user-images.githubusercontent.com/70121687/198917122-6d61c2d9-6e11-4c65-8568-ae58a7cccae8.png)
@@ -84,13 +86,10 @@ Rest the jigs on a flat surface and rotate and jiggle the tube until both jigs a
 
 ### Nosecone:
 1. Clean out the nut mount inserts in the bulkhead to ensure there is no 3D filament stuck in the holes
-2. Test fit the nuts to make sure they go in
-3. Add small amount of epoxy to each of the nut mounts then press in the nuts (make sure no epoxy gets in the nut thread)
+2. Test fit the nuts to make sure they fit into points
+3. Add small amount of epoxy to each of the nut mounts then press in the nuts (make sure no epoxy gets in the nut thread). You can use a nylon bolt to hold make sure the nuts are in place and no epoxy gets in the thread (just make sure to remove the bolt before the epoxy sets)
 4. Screw in the eyebolt (add a little bit of epoxy when screwed in to prevent it from unwinding).
 5. Attached shock cord and parachute to eyebolt.
-
-#### Ogive Nose Cone:
-![image](https://user-images.githubusercontent.com/70121687/198917032-459fe90b-6c3b-4feb-bb46-cf49fee7a1ae.png)
 
 #### Von Karman Nose Cone:
 ![image](https://user-images.githubusercontent.com/70121687/198916705-7df58494-a995-4134-9939-f393c3248271.png)
