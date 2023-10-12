@@ -47,7 +47,9 @@ Rest the jigs on a flat surface and rotate and jiggle the tube until both jigs a
 6. Make sure the laser cutter bed is correctly positioned and square in the lasercutter. Sometimes people bump it and it is not square. Insert the tube into laser cutter, and make sure the jig is aligned squarley with the lasercutter in one corner. The legs of the jig are square so it can be aligned against the lasercutter bed. It is important you place it in a repeatable position in the laser cutter, so that after the first cut of the fin slot, you can remove the jig, rotate it 120 degrees, then place it back into the same position. 
 
 ![image](https://user-images.githubusercontent.com/70121687/190539946-2a6d1edc-40f7-4d40-bc77-3b58298a3882.png)
-![image](https://user-images.githubusercontent.com/70121687/198918185-e3d2eaa2-3bdf-40a2-a3f9-f00003bbe4f9.png)
+![Screenshot 2023-10-12 122401](https://github.com/roboticsmick/LSR_LOW_COST_ROCKET/assets/70121687/1392b22a-45cd-407c-beaf-ff957525e126)
+
+
 
 6. Centre the laser cutter on the mark made at the 66mm point and load in the fin slot template. You can position the laser cutter pointer to be in the centre of the object to be cut.
 7. Cut the fin slot.
