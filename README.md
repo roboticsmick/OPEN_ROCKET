@@ -25,10 +25,10 @@ Note: PLA deforms if left in the sun or it gets hot. Make sure to keep the nosec
 
 ### 3D printed parts:
 1. 2 x Laser cutter jigs (holds the body tube straight and allows accurate 120 degree rotation of the body tube in the laser cutter when cutting out the fin slots).
-2. 1 x Motor retainer
-3. 1 x Motor tube
+2. 1 x Motor retainer (print with the thread at the top)
+3. 1 x Motor tube (print with the thread at the top)
 4. 1 x Nosecone plate / bulkhead
-5. 1 x Nosecone (210mm length based on maximum Z Axis height of 3D printer).
+5. 1 x Nosecone (250mm length based on maximum Z Axis height of 3D printer).
 
 ### Plywood (4mm plywood):
 3. 1 x laser shield (slots into laser cutter jig slot to prevent laser cutter from burning the opposing side of body tube when cutting fin slots)
