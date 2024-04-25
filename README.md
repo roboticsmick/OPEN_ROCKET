@@ -1,6 +1,6 @@
-# LOGICOMA_LOW_COST_ROCKET - QUT Launchpad build
+# OPEN LOW COST ROCKET
 
-A low cost rocket build using 3D printed parts and a laser cutter. Design uses a Von Karman Nose Cone profile (optimum nose cone profile for rockets). Nosecone has space for a small payload bay. All parts should be printables without supports on Launchpad printers. You need to use the large Lulzbot due to height of nosecone. 29mm motor mount. A spacer is required for 24mm motor. Have successfully launched rocket using a E24 and G78 motor. 
+An open designed low cost rocket build using 3D printed parts and a laser cutter. Design uses a Von Karman Nose Cone profile (optimum nose cone profile for rockets). Nosecone has space for a small payload bay. All parts should be printables without supports on Launchpad printers. You need to use the large Lulzbot due to height of nosecone. 29mm motor mount. A spacer is required for 24mm motor. Have successfully launched rocket using a E24 and G78 motor. 
 
 Note: PLA deforms if left in the sun or it gets hot. Make sure to keep the nosecone out of the sun for extended periods of time. If it is in the sun, make sure the end caps are in to help reinforce the nosecone to prevent it deforming. 
 
